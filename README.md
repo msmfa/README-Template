@@ -2,7 +2,7 @@
 
 ## Deployment
 
-## Build Tools
+## Build Tools & Languages
 - Visual Studio Code
 - Git
 - Github
