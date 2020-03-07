@@ -3,6 +3,9 @@
 ## Deployment
 
 ## Build Tools
+- Visual Studio Code
+- Git
+- Github
 
 ## What did I learn? 
 
